@@ -1,4 +1,4 @@
-# Charts and Visualization Libraries
+# Dashboards, Charts, and Visualization Libraries
 
 ## Table of Contents
 
@@ -73,3 +73,17 @@
 **Cons**
 
 * 
+
+
+## Dashboards
+
+*Disclaimer: I'm pretty wary of pre-built dashboard templates as everyone has their own way of doing things and that can end up bogging down the development process as well as depend on whoever is maintaining said dashboard.*
+
+#### [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/admin/dashboard)
+
+#### [React Material Admin]https://flatlogic.com/templates/react-material-admin/demo)
+
+* [Github Repo](https://github.com/flatlogic/react-material-admin)
+
+### Build it yourself (it's not that hard!)
+
