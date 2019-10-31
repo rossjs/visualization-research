@@ -1,75 +1,75 @@
 # Charts and Visualization Libraries
 
-  ## Table of Contents
+## Table of Contents
 
-  1. Research
-  1. Visualization Libraries
+1. Research
+1. Visualization Libraries
 
-  ## Research
+## Research
 
-  * [How I chose the #1 graph library for my React project](https://blog.theodo.com/2019/08/how-i-chose-the-number-one-react-graphing-library/)
-  * 
+* [How I chose the #1 graph library for my React project](https://blog.theodo.com/2019/08/how-i-chose-the-number-one-react-graphing-library/)
+* 
 
-  ## Visualization Libraries
+## Visualization Libraries
 
-    ### [`Recharts`](http://recharts.org/en-US/examples)
+### [`Recharts`](http://recharts.org/en-US/examples)
 
-    *Pros*
+*Pros*
 
-    * built on React + D3
-    * Popular (good community support - StackOverflow etc)
+* built on React + D3
+* Popular (good community support - StackOverflow etc)
 
-    *Cons*
+*Cons*
 
-    *
+*
 
-    ### [`Chart.js`](https://www.chartjs.org/samples/latest/)
+### [`Chart.js`](https://www.chartjs.org/samples/latest/)
 
-    *Pros*
+*Pros*
 
-    * built on top of HTML `<canvas>` components
-    * simple API
+* built on top of HTML `<canvas>` components
+* simple API
 
-    *Cons*
+*Cons*
 
-    * amount of chart options may be limiting
+* amount of chart options may be limiting
 
-    ### [`nivo`](https://nivo.rocks/)
+### [`nivo`](https://nivo.rocks/)
 
-    *Pros*
+*Pros*
 
-    * 
+* 
 
-    *Cons*
-    
-    * 
-    
-    ### [`React-Vis`](https://github.com/uber/react-vis)
+*Cons*
 
-    *Pros*
+* 
 
-    * 
+### [`React-Vis`](https://github.com/uber/react-vis)
 
-    *Cons*
-    
-    * 
+*Pros*
 
-    ### [`VX`](https://vx-demo.now.sh/)
+* 
 
-    *Pros*
+*Cons*
 
-    * 
+* 
 
-    *Cons*
-    
-    * 
+### [`VX`](https://vx-demo.now.sh/)
 
-    ### [`Victory`](https://formidable.com/open-source/victory/about/)
+*Pros*
 
-    *Pros*
+* 
 
-    * 
+*Cons*
 
-    *Cons*
-    
-    * 
+* 
+
+### [`Victory`](https://formidable.com/open-source/victory/about/)
+
+*Pros*
+
+* 
+
+*Cons*
+
+* 
