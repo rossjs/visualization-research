@@ -12,64 +12,64 @@
 
 ## Visualization Libraries
 
-### [`Recharts`](http://recharts.org/en-US/examples)
+#### [`Recharts`](http://recharts.org/en-US/examples)
 
-*Pros*
+**Pros**
 
 * built on React + D3
 * Popular (good community support - StackOverflow etc)
 
-*Cons*
+**Cons**
 
 *
 
-### [`Chart.js`](https://www.chartjs.org/samples/latest/)
+#### [`Chart.js`](https://www.chartjs.org/samples/latest/)
 
-*Pros*
+**Pros**
 
 * built on top of HTML `<canvas>` components
 * simple API
 
-*Cons*
+**Cons**
 
 * amount of chart options may be limiting
 
-### [`nivo`](https://nivo.rocks/)
+#### [`nivo`](https://nivo.rocks/)
 
-*Pros*
-
-* 
-
-*Cons*
+**Pros**
 
 * 
 
-### [`React-Vis`](https://github.com/uber/react-vis)
-
-*Pros*
+**Cons**
 
 * 
 
-*Cons*
+#### [`React-Vis`](https://github.com/uber/react-vis)
+
+**Pros**
 
 * 
 
-### [`VX`](https://vx-demo.now.sh/)
-
-*Pros*
+**Cons**
 
 * 
 
-*Cons*
+#### [`VX`](https://vx-demo.now.sh/)
+
+**Pros**
 
 * 
 
-### [`Victory`](https://formidable.com/open-source/victory/about/)
-
-*Pros*
+**Cons**
 
 * 
 
-*Cons*
+#### [`Victory`](https://formidable.com/open-source/victory/about/)
+
+**Pros**
+
+* 
+
+**Cons**
 
 * 
